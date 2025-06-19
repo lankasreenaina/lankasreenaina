@@ -39,9 +39,9 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 
 ### 🌐 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/lankasreenaina)
-* 🧠 [LeetCode](https://leetcode.com/u/yourLeetCodeUsername/) <!-- replace this -->
-* 📬 Email: [your\_email@example.com](mailto:your_email@example.com) <!-- replace this -->
+* 💼 [LinkedIn](www.linkedin.com/in/sreenaina-lanka)
+* 🧠 [LeetCode](https://leetcode.com/u/lankasreenaina/)
+* 📬 Email: [your\_email@example.com](mailto:sreenaina0711@gmail.com) 
 
 ---
 
@@ -62,9 +62,3 @@ Code. Create. Challenge. Repeat.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8aeb&height=120&section=footer"/>
 ```
-
----
-
-Just paste this **right after** what you already wrote. Then **click “Commit changes”** ✅
-
-Let me know if you want a project showcase added!
