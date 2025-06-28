@@ -39,7 +39,7 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 
 ### 🌐 Let's Connect
 
-* 💼 [LinkedIn](www.linkedin.com/in/sreenaina-lanka)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sreenaina-lanka/)
 * 🧠 [LeetCode](https://leetcode.com/u/lankasreenaina/)
 * 📬 Email: [sreenaina0711@gmail.com](mailto:sreenaina0711@gmail.com) 
 
