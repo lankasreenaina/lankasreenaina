@@ -41,7 +41,7 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 
 * 💼 [LinkedIn](www.linkedin.com/in/sreenaina-lanka)
 * 🧠 [LeetCode](https://leetcode.com/u/lankasreenaina/)
-* 📬 Email: [your\_email@example.com](mailto:sreenaina0711@gmail.com) 
+* 📬 Email: [sreenaina0711@gmail.com.com](mailto:sreenaina0711@gmail.com) 
 
 ---
 
