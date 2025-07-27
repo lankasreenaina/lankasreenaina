@@ -20,13 +20,7 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 
 ---
 
-### 🧰 My Tech Toolbox
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mysql,mongodb,python,docker,git,github,linux,figma" />
-</p>
-
----
 
 ### 📈 By the Numbers
 
