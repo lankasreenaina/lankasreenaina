@@ -22,14 +22,6 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 
 
 
-### 📈 By the Numbers
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lankasreenaina&theme=github-dark-blue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lankasreenaina&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
