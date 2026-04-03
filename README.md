@@ -11,7 +11,6 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 
 ---
 
-
 ```
 
 💡 I believe in building tech that's **meaningful, scalable**, and **a little magical**.
@@ -19,8 +18,6 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 🧠 Lifelong learner of code, design, and disruption.
 
 ---
-
-
 
 
 ### 🌐 Let's Connect
@@ -31,7 +28,5 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 
 ---
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8aeb&height=120&section=footer"/>
-```
+
