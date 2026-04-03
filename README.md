@@ -15,7 +15,7 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 ```
 
 💡 I believe in building tech that's **meaningful, scalable**, and **a little magical**.
-📌 Currently exploring **DevOps**, **Machine Learning**, and **Backend Scaling Patterns**.
+📌 Currently exploring **DSA**, **Machine Learning**, and **Backend Scaling Patterns**.
 🧠 Lifelong learner of code, design, and disruption.
 
 ---
@@ -30,19 +30,6 @@ Perfect! Here's **exactly what you need to copy and paste next** — in one go �
 * 📬 Email: [sreenaina0711@gmail.com](mailto:sreenaina0711@gmail.com) 
 
 ---
-
-### 🪄 Personal Command Line
-
-```bash
-> whoami
-Sreenaina — Dev who crafts beautiful logic with sharp code.
-
-> current_mission
-// Leveling up Java backend mastery & system design skills.
-
-> motto
-Code. Create. Challenge. Repeat.
-```
 
 ---
 
